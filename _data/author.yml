@@ -1,0 +1,23 @@
+name: Tristan
+dp: assets/images/profile.webp
+description: "
+  <p>
+    Gemaakt en ontworpen om mijn gedachtes te kunnen uiten
+  </p>
+  <br/>
+  <p>
+    Je kunt direct contact met me opnemen via <a href='mailto:persoonlijkeblog@privemail.xyz' target='_blank'>mail</a>
+  </P>
+"
+email: persoonlijkeblog@privemail.xyz
+contact:
+#  - title: linkedin
+#    url: https://www.linkedin.com/in/srsmaurya
+  - title: github
+    url: https://github.com/TheDutchSmoke
+#  - title: twitter
+#    url: https://twitter.com/iamsharadraj
+#  - title: dev
+#    url: https://dev.to/sharadcodes
+  - title: email
+    url: mailto:persoonlijkeblog@privemail.xyz
