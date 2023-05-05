@@ -32,3 +32,7 @@ Dat is met belastinggeld natuurlijk niet wenselijk.
 We zijn nu echt op weg naar de zogenoemde "[New World Order](https://www.weforum.org/great-reset/)", waar we door 2 verschillende componenten, namelijk onder de SDG's ([Sustainable Development Goals](https://www.weforum.org/events/sustainable-development-impact-summit-2020/about/3d-world)), waarmee we onder het gemak van "[15 minute city's](https://www.weforum.org/agenda/2021/11/15minute-city-falls-short/)", in een totalitair regime komen, net als in China, zoals je hieronder kunt zien:
 
 ![](/assets/images/15-minute-city-China.mp4)
+
+<video width="600" controls="controls">
+  <source src="{{ site.my-media-path }}/assets/images/15-minute-city-China.mp4">
+</video>
