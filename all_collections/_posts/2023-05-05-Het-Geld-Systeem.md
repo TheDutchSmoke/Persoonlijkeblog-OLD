@@ -11,3 +11,7 @@ Je zult het misschien al bij de supermarkt of aan je woning gemerkt hebben, maar
 # Kapot?
 
 Ja, het geld systeem is, door het slecht omgaan met het systeem, helaas kapot aan het gaan, zeggen ook experts zoals [Arno Wellens](https://www.youtube.com/watch?v=4UbzHJu7zyo), [Boris van de Ven](https://www.youtube.com/watch?v=PK_HLMWQ8x0) en andere gereformeerde economen.
+Je kunt ook duidelijk aan de goudprijs, dat over het algemeen gekoppeld wordt aan het vertrouwen in [fiat geld](https://nl.wikipedia.org/wiki/Fiduciair_geld).
+Dit kun je hieronder terugzien:
+
+<iframe src="https://www.goudprijs.nl/goudkoers" title="Goudprijs"></iframe>
