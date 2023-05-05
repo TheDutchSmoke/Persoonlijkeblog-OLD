@@ -2,7 +2,7 @@
 layout: post
 title: Waarom het aanbieden van gratis gender affermation een slecht idee is
 date: 2022-03-01 12:18:00
-categories: [Blog]
+categories: [Gender]
 thumbnail: "assets/images/pattern.webp"
 ---
 
