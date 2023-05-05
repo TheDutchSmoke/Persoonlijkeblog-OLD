@@ -34,4 +34,4 @@ Dat kan ik je niet vertellen en is voor mij ook nog een raadsel. Dat gezegd hebb
 
 [The New World Order boek](https://www.persoonlijkeblog.nl/assets/Downloads/The-New-World-Order-Book-PDFDrive-.pdf)
 
-[Covid-19: The Great Reset boek](https://www.persoonlijkeblog.nl/COVID-19_-The-Great-Reset-Klaus-Schwab-1.pdf)
+[Covid-19: The Great Reset boek](https://www.persoonlijkeblog.nl/assets/Downloads/COVID-19_-The-Great-Reset-Klaus-Schwab-1.pdf)
