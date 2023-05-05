@@ -14,4 +14,4 @@ Ja, het geld systeem is, door het slecht omgaan met het systeem, helaas kapot aa
 Je kunt ook duidelijk aan de goudprijs, dat over het algemeen gekoppeld wordt aan het vertrouwen in [fiat geld](https://nl.wikipedia.org/wiki/Fiduciair_geld).
 Dit kun je hieronder terugzien:
 
-<iframe src="https://www.goudprijs.nl/goudkoers" title="Goudprijs"></iframe>
+<iframe class="Goudprijs" width="640" height="360" src="https://www.goudprijs.nl/goudkoers" frameborder="0" allowfullscreen></iframe>
