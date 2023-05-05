@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Het Geld Systeem
-date: 2021-11-04
+date: 2023-05-05
 categories: ["Geld"]
 thumbnail: "assets/images/Geld.webp"
 ---
