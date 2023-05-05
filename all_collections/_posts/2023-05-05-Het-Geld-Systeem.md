@@ -33,6 +33,6 @@ We zijn nu echt op weg naar de zogenoemde "[New World Order](https://www.weforum
 
 ![](/assets/images/15-minute-city-China.mp4)
 
-<video width="600" controls="controls">
+<video width="300" controls="controls">
   <source src="{{ site.my-media-path }}/assets/images/15-minute-city-China.mp4">
 </video>
