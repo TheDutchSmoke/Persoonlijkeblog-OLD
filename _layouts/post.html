@@ -24,7 +24,7 @@
           <div class="article-bottom">
             <small class="article-date">{{page.date | date_to_string}}</small>
             <div class="article-categories">
-              {% for c in page.categories %}
+              {% include read_time.html %} {% for c in page.categories %}
               <a href="#!" class="article-category">{{c}}</a>
               {% endfor %}
             </div>
