@@ -2,7 +2,7 @@
 layout: post
 title: Het Geld Systeem
 date: 2023-05-05
-categories: ["geld, geldsysteem"]
+categories: [geld, geldsysteem]
 thumbnail: "assets/images/Geld.webp"
 ---
 
