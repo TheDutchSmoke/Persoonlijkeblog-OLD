@@ -24,7 +24,7 @@ Het is vrij simpel. Ik denk dat we allemaal hetzelfde willen, namelijk rustig sa
 Het is waarschijnlijk <a href="https://binformedia.nl/gezondheid/insecten-in-je-eten-is-niet-gezond/" target="_blank">schadelijk</a> om wormen en andere instecten te eten.
 Ook ziet het er gewoon niet smakelijk uit:
 
-![](https://www.persoonlijkeblog.nl/assets/images/proxy-image.webp)
+![](/assets/images/proxy-image.webp)
 
 ## Wat is de oplossing?
 

@@ -13,7 +13,7 @@ Ja ja, daar zijn we dan!
 <h1> Een gloed nieuwe website, maar waarvoor eigenlijk? </h1>
 
 Je kunt het zien als mijn persoonlijke <a href="https://www.twitter.com" target="_blank">Twitter</a> account, maar dan volledig mijn. 😊
-De reden dat ik dit gedaan heb, is omdat ik heb gezien wat er gebeurd met het <a href="https://www.persoonlijkeblog.nl/assets/images/Wef-wormen.webp" target="_blank">World Economic Forum</a>, dat gesteund wordt door onze lieve Mark Rutte en zijn vriendjes.
+De reden dat ik dit gedaan heb, is omdat ik heb gezien wat er gebeurd met het <a href="/assets/images/Wef-wormen.webp" target="_blank">World Economic Forum</a>, dat gesteund wordt door onze lieve Mark Rutte en zijn vriendjes.
 
 Omdat ik er heel erg op mijn <a href="https://www.denederlandsegrondwet.nl/id/vlxups19rfoe/hoofdstuk_1_grondrechten/" target="_blank">rechten</a> gesteld ben en vooral op de <a href="https://www.denederlandsegrondwet.nl/id/vlxups19rfoe/hoofdstuk_1_grondrechten#p7" target="_blank">Vrijheid van Meningsuiting</a>, waar ik dan ook graag gebruik van maak. 😊
 Ook denk ik dat het uitermate goed is om met elkaar in gesprek te blijven. Dit voorkomt onbegrep en onbegrip is toch wel het minst leuke van dit alles.
@@ -29,4 +29,4 @@ Een hele logische vraag. Daar heb ik zelf ook heel erg lang overna gedacht. De r
 
 Deze post blijft kort, binnenkort komt er meer 🎉
 
-![](https://www.persoonlijkeblog.nl/assets/images/To-be-continiuod.webp)
+![](/assets/images/To-be-continiuod.webp)
