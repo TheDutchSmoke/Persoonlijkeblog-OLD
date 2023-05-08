@@ -32,6 +32,6 @@ Dat kan ik je niet vertellen en is voor mij ook nog een raadsel. Dat gezegd hebb
 
 ## Gratis downloads:
 
-[The New World Order boek](assets/Downloads/The-New-World-Order-Book-PDFDrive-.pdf)
+[The New World Order boek](/assets/Downloads/The-New-World-Order-Book-PDFDrive-.pdf)
 
-[Covid-19: The Great Reset boek](assets/Downloads/COVID-19_-The-Great-Reset-Klaus-Schwab-1.pdf)
+[Covid-19: The Great Reset boek](/assets/Downloads/COVID-19_-The-Great-Reset-Klaus-Schwab-1.pdf)
