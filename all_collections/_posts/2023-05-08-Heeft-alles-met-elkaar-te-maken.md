@@ -7,10 +7,10 @@ thumbnail: "assets/images/thumb1.png"
 ---
 Omdat ik graag uitgebreid wil blijven, wordt dit een wat langere post.
 
-#Heeft echt alles met elkaar te maken?
+# Heeft echt alles met elkaar te maken?
 In het kort, ja. De COVID-19, de gasprijzen, de stikstof "crisis", het vergaan van de aarde, Rusland-Oekraïne, allemaal.
 
-##Hoe weet je dat zo zeker?
+## Hoe weet je dat zo zeker?
 Door bij elk probleem terug te gaan naar de kern van het probleem. Bij het Rusland Oekraïne voorbeeld, is het gebrek aan vredesonderhandelingen een groot probleem. Als ik aan iemand vraag "Voor wie ben jij in de oorlog?", dan krijg ik vaak te horen "Voor Oekraïne".
 Ik hoor je al denken "Maar dat is toch goed?" 
 
