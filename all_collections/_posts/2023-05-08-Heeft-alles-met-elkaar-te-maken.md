@@ -3,7 +3,7 @@ layout: post
 title: Heeft alles met elkaar te maken?
 date: 2023-05-08
 categories: [WEF,lockdown,stikstof]
-thumbnail: "assets/images/thumb1.png"
+thumbnail: "/assets/images/Everything-connected.webp"
 ---
 Omdat ik graag uitgebreid wil blijven, wordt dit een wat langere post.
 
