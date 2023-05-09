@@ -20,7 +20,11 @@ Hiermee zeg je eigenlijk "Wat er gebeurd keur ik goed, want ik kies een team".
 
 Je kunt je beter afvragen wat het originele probleem is. Er is `oorlog` en dat kost mensenlevens, zoons van vaders en moeders, iemands vader, iemands oom waar die een goede band mee heeft, het zijn verloren `mensenlevens` en dat is onacceptabel in deze tijd.
 
-Tegenwoordig hoor je niemand dat ze `tegen` deze nutteloze oorlog zijn.
+Tegenwoordig hoor je niemand dat ze `tegen` deze nutteloze oorlog zijn. Dit blijft me verbazen.
 
 # Back to the topic
-Het Black Lives Matter idee doet meer slecht dan goed, waar ze toch voor zijn.
+Het Black Lives Matter idee doet meer slecht dan goed, helaas.
+Dit is te zien aan de protesten die ze voeren en de beelden die daaruit voortvloeien.
+
+Kijk de video hieronder maar voor een recentelijk voorbeeld:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HhAdaAewUaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
