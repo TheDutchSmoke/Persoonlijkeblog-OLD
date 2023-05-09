@@ -2,7 +2,7 @@
 layout: post
 title: Oekraïne Rusland oorlog
 date: 2022-02-09
-categories: [Oekraïne, Rusland, oorlog]
+categories: [Oekraïne, Rusland, oorlog, WEF]
 thumbnail: "assets/images/oekraïne.webp"
 ---
 
