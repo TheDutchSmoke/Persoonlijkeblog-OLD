@@ -31,3 +31,6 @@ Kijk de video hieronder maar voor een recentelijk voorbeeld:
 
 Ook deze beweging heeft een direct verband, met niet alleen het WEF en de 2030 plannen, maar ook met de trans mens strategie.
 Deze strategie is een strategie om mensen om te bouwen naar robots, die natuurlijk veel makkelijker te controleren zijn, zeker met AI nu in opkomst.
+
+Zolang wij vechten over zwart, wit, bruin, paars, kunnen zij de wereld overnemen.
+Dit is de "[verdeel en heers](https://nl.m.wikipedia.org/wiki/Divide_et_impera)" strategie.
