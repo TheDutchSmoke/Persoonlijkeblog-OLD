@@ -29,3 +29,5 @@ Dit is te zien aan de protesten die ze voeren en de beelden die daaruit voortvlo
 Kijk de video hieronder maar voor een recentelijk voorbeeld:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HhAdaAewUaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Ook deze beweging heeft een direct verband, met niet alleen het WEF en de 2030 plannen, maar ook met de trans mens strategie.
+Deze strategie is een strategie om mensen om te bouwen naar robots, die natuurlijk veel makkelijker te controleren zijn, zeker met AI nu in opkomst.
