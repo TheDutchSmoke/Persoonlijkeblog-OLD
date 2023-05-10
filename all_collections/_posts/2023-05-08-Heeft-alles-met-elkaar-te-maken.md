@@ -33,4 +33,4 @@ Ook deze beweging heeft een direct verband, met niet alleen het WEF en de 2030 p
 Deze strategie is een strategie om mensen om te bouwen naar robots, die natuurlijk veel makkelijker te controleren zijn, zeker met AI nu in opkomst.
 
 Zolang wij vechten over zwart, wit, bruin, paars, kunnen zij de wereld overnemen.
-Dit is de "[verdeel en heers](https://nl.m.wikipedia.org/wiki/Divide_et_impera)" strategie.
+Dit is de "<a href="https://nl.m.wikipedia.org/wiki/Divide_et_impera" target="_blank" rel="noopener noreferrer">verdeel en heers</a>" strategie.
