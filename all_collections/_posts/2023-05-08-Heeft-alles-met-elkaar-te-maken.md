@@ -38,10 +38,3 @@ Deze strategie wordt al sinds jaar en dag toegepast en staat eerlijke concurrent
 Als je kijkt naar bijvoorbeeld Starbucks, die zijn gevestigd in Nederland.
 Dit zal echt niet vanwege het mooie weer in ons kleine land zijn, maar omdat we een belastingsparadijs voor grote bedrijven zijn.
 Terwijl hard werkende mensen 30% belasting betalen en geen afspraken kunnen maken met de overheid, betalen bedrijven als Starbucks, The Beatles, en meer, zoals je in <a href="https://www.ad.nl/economie/aantal-buitenlandse-multinationals-in-nederland-flink-gestegen~ac2e77d3" target="_blank" rel="noopener noreferrer">dit</a> artikel kunt lezen.
-
-<iframe src="https://www.ad.nl/economie/aantal-buitenlandse-multinationals-in-nederland-flink-gestegen~ac2e77d3" title="W3Schools Free Online Web Tutorials"></iframe>
-
-<div>
-    <iframe id='iframe2' src="https://www.ad.nl/economie/aantal-buitenlandse-multinationals-in-nederland-flink-gestegen~ac2e77d3" frameborder="0" style="overflow: hidden; height: 100%;
-        width: 100%; position: absolute;"></iframe>
-</div>
