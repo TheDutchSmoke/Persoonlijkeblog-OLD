@@ -10,3 +10,6 @@
 
 **Colored tekst with** *Italic*
 `<span style="color:blue"> *TEKST*</span>`
+
+**Code Block**
+``` `Code` ```
