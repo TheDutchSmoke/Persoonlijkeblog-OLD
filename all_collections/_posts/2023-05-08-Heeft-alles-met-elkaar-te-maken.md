@@ -16,6 +16,8 @@ Ik hoor je al denken "Maar dat is toch goed?"
 
 <ins> **`FOUT!!`** </ins>
 
+<span style="color:red"> *FOUT!!*</span>
+
 Hiermee zeg je eigenlijk "Wat er gebeurd keur ik goed, want ik kies een team".
 
 Je kunt je beter afvragen wat het originele probleem is. Er is `oorlog` en dat kost mensenlevens, zoons van vaders en moeders, iemands vader, iemands oom waar die een goede band mee heeft, het zijn verloren `mensenlevens` en dat is onacceptabel in deze tijd.
