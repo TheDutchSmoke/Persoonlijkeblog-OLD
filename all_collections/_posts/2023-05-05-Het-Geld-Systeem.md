@@ -10,8 +10,8 @@ Je zult het misschien al bij de supermarkt of aan je woning gemerkt hebben, maar
 
 # Kapot?
 
-Ja, het geld systeem is, door het slecht omgaan met het systeem, helaas kapot aan het gaan, zeggen ook experts zoals [Arno Wellens](https://www.youtube.com/watch?v=4UbzHJu7zyo), [Boris van de Ven](https://www.youtube.com/watch?v=PK_HLMWQ8x0) en andere gereformeerde economen.
-Je kunt ook duidelijk aan de goudprijs, dat over het algemeen gekoppeld wordt aan het vertrouwen in [fiat geld](https://nl.wikipedia.org/wiki/Fiduciair_geld).
+Ja, het geld systeem is, door het slecht omgaan met het systeem, helaas kapot aan het gaan, zeggen ook experts zoals [Arno Wellens](https://www.youtube.com/watch?v=4UbzHJu7zyo){:target="_blank"}, [Boris van de Ven](https://www.youtube.com/watch?v=PK_HLMWQ8x0){:target="_blank"} en andere gereformeerde economen.
+Je kunt ook duidelijk aan de goudprijs, dat over het algemeen gekoppeld wordt aan het vertrouwen in [fiat geld](https://nl.wikipedia.org/wiki/Fiduciair_geld){:target="_blank"}.
 Dit kun je hieronder terugzien:
 
 ![De goudprijs vanaf juli 2021 tot en met mei 2023](/assets/images/Goudprijs-tot-maart.webp) 
@@ -19,7 +19,7 @@ Dit kun je hieronder terugzien:
 # Het omvallen van de banken in America
 
 Afgelopen maandag is de derde bank omgevallen in America.
-Deze bank is dan weer overgekocht door de grootste bank uit America, [JP Morgan Chase](https://www.reuters.com/business/finance/jpmorgan-buys-first-republic-banks-assets-2023-05-01/). JP Morgan Chase heeft hiervoor ongeveer [10 miljard](https://www.marketplace.org/2023/05/01/for-jpmorgan-loss-sharing-sweetened-its-deal-to-buy-first-republic-bank/) euro voor betaald.
+Deze bank is dan weer overgekocht door de grootste bank uit America, [JP Morgan Chase](https://www.reuters.com/business/finance/jpmorgan-buys-first-republic-banks-assets-2023-05-01/){:target="_blank"}. JP Morgan Chase heeft hiervoor ongeveer [10 miljard](https://www.marketplace.org/2023/05/01/for-jpmorgan-loss-sharing-sweetened-its-deal-to-buy-first-republic-bank/){:target="_blank"} euro voor betaald.
 Dit zorgt ervoor dat JP Morgan Chase alle kleinere banken opslokt of uit de markt concureren.
 Dat is met belastinggeld natuurlijk niet wenselijk.
 
@@ -29,7 +29,7 @@ Dat is met belastinggeld natuurlijk niet wenselijk.
 
 # Waarom is dit niet goed?
 
-We zijn nu echt op weg naar de zogenoemde "[New World Order](https://www.weforum.org/great-reset/)", waar we door 2 verschillende componenten, namelijk onder de SDG's ([Sustainable Development Goals](https://www.weforum.org/events/sustainable-development-impact-summit-2020/about/3d-world)), waarmee we onder het gemak van "[15 minute city's](https://www.weforum.org/agenda/2021/11/15minute-city-falls-short/)", in een totalitair regime komen, net als in China, zoals je hieronder kunt zien.
+We zijn nu echt op weg naar de zogenoemde "[New World Order](https://www.weforum.org/great-reset/){:target="_blank"}", waar we door 2 verschillende componenten, namelijk onder de SDG's ([Sustainable Development Goals](https://www.weforum.org/events/sustainable-development-impact-summit-2020/about/3d-world)){:target="_blank"}, waarmee we onder het gemak van "[15 minute city's](https://www.weforum.org/agenda/2021/11/15minute-city-falls-short/){:target="_blank"}", in een totalitair regime komen, net als in China, zoals je hieronder kunt zien.
 
 ## Hieronder zie je een filmpje van mensen uit China die in 15 minuten steden wonen, die hun gezicht moeten scannen om eruit te mogen
 
