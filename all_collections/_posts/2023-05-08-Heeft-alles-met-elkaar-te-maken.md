@@ -37,4 +37,4 @@ Dit is de "<a href="https://nl.m.wikipedia.org/wiki/Divide_et_impera" target="_b
 Deze strategie wordt al sinds jaar en dag toegepast en staat eerlijke concurrentie en dus een goede economie in de weg.
 Als je kijkt naar bijvoorbeeld Starbucks, die zijn gevestigd in Nederland.
 Dit zal echt niet vanwege het mooie weer in ons kleine land zijn, maar omdat we een belastingsparadijs voor grote bedrijven zijn.
-Terwijl hard werkende mensen 30% belasting betalen en geen afspraken kunnen maken met de overheid, betalen bedrijven als Starbucks, The Beatles, en meer, zoals je in <a href="https://www.ad.nl/economie/aantal-buitenlandse-multinationals-in-nederland-flink-gestegen~ac2e77d3" target="_blank" rel="noopener noreferrer">dit</a> artikel kunt lezen.
+Terwijl hard werkende mensen 30% belasting betalen en geen afspraken kunnen maken met de overheid, betalen bedrijven als Starbucks, The Beatles, en meer, zoals je in <a href="https://www.ad.nl/economie/aantal-buitenlandse-multinationals-in-nederland-flink-gestegen~ac2e77d3" target="_blank" rel="noopener noreferrer">>dit<</a> artikel kunt lezen.
