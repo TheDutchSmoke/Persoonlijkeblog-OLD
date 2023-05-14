@@ -36,3 +36,6 @@ We zijn nu echt op weg naar de zogenoemde "[New World Order](https://www.weforum
 <video width="300" controls="controls">
   <source src="{{ site.my-media-path }}/assets/images/15-minute-city-China.mp4">
 </video>
+
+
+[Boris van de Ven](https://www.youtube.com/watch?v=PK_HLMWQ8x0){:target="_blank"}
