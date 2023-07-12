@@ -9,4 +9,6 @@ categories:
 thumbnail: assets/images/kabinet.webp
 ---
 
-test
+Het is dan eindelijk zo ver. **Het kabinet [Rutte IV](https://www.parlement.com/id/vlombyx8gxvd/kabinet_rutte_iv_2022) is gevallen**.
+
+# Waarom is het kabinet gevallen?
