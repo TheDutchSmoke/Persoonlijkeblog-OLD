@@ -15,3 +15,5 @@ Het is dan eindelijk zo ver. **Het kabinet <a href="https://www.parlement.com/id
 
 Mark Rutte, die al lang de leiding heeft, besluit zijn baan op te zeggen. Dat komt niet door een paar problemen die zich hebben voorgedaan, zoals oneerlijke behandeling van Groningers of meningsverschillen over de vorming van een nieuwe regering. Het is vanwege een probleem met mensen die asiel zoeken in het land. Hij treedt af als (vice)premier.
 
+# Waarom is dit gebeurd?
+
