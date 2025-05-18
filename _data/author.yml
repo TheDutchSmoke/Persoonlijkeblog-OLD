@@ -1,4 +1,4 @@
-name: Tristan
+name: 
 dp: assets/images/profile.webp
 description: "
   <p>
@@ -6,7 +6,7 @@ description: "
   </p>
   <br/>
   <p>
-    Je kunt direct contact met me opnemen via <a href='mailto:persoonlijkeblog@privemail.xyz' target='_blank'>mail</a>
+    
   </P>
 "
 email: persoonlijkeblog@privemail.xyz
